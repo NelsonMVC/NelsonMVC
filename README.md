@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NelsonMVC
-- 👀 I’m interested in ...Java Programming
-- 🌱 I’m currently learning ...Java programming
+- 👀 I’m interested in ...Java Programming and C++ (Discrete Structures)
+- 🌱 I’m currently learning ...and C++ (Discrete Structures)
 - 💞️ I’m looking to collaborate on ...coding a java
 - 📫 How to reach me ...email
 
